@@ -1,0 +1,31 @@
+{
+  "name": "dive-pool-generator",
+  "version": "1.0.0",
+  "description": "A simple interface to create randomized dive pools using the formations from the International Bodyflight Association",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.16.4",
+    "react": "^15.3.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "less": "^2.7.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkotenko/dive-pool-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkotenko/dive-pool-generator/issues"
+  },
+  "homepage": "https://github.com/rkotenko/dive-pool-generator#readme"
+}
